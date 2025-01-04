@@ -8,7 +8,8 @@ cursor 无限试用工具：一种实用工具，通过重置存储的设备 ID 
 
 ![QQ20250104-114234](https://github.com/user-attachments/assets/98e3f421-f87b-4956-9f75-38ff9416b129)
 
-
+支持mac、win
 
 #### 重要提示：
 > 在运行脚本之前，您需要注销并完全关闭 Cursor。如果 Cursor 仍在后台运行，它可能会恢复到以前的设备 ID，从而撤消重置。
+cursor 无限试用工具：一种实用工具，通过重置存储的设备 ID 来帮助管理 Cursor 编辑器的设备识别系统。
