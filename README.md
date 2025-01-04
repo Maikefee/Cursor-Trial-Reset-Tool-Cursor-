@@ -20,7 +20,7 @@ cursor 无限试用工具：一种实用工具，通过重置存储的设备 ID 
 http://www.4ro.cn/
 
 #### 卡密:
-卡密
+
 0b967b40dd24699dbb550de51addecb5
 
 16aaf3d66ed8842054348f553b5eccb6
